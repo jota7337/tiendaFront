@@ -6,8 +6,8 @@ const ConsultaClientes = () => {
 
   useEffect(() => {
     setClientes([
-      { id: 1, nombre: "Juan Pérez", correo: "juan@example.com" },
-      { id: 2, nombre: "María López", correo: "maria@example.com" },
+      { id: 1, nombre: "Juan ", correo: "juan@gmail.com" },
+      { id: 2, nombre: "Maria ", correo: "maria@hotmail.com" },
     ]);
   }, []);
 
